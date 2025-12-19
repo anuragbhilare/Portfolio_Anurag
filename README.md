@@ -47,8 +47,6 @@ npm install
 npm start
 ```
 
-The app will run on http://localhost:3000
-
 ## 📌 Future Improvements
 
 * Animations & micro-interactions
@@ -60,7 +58,7 @@ The app will run on http://localhost:3000
 
 If you like what you see or want to collaborate:
 
-* GitHub:(https://github.com/anuragbhilare/Portfolio_Anurag)
-* Portfolio:(anuragportfolio911.netlify.app)
+* GitHub: [Visit GitHub](https://github.com/anuragbhilare/Portfolio_Anurag)
+* Portfolio: [Visit Portfolio](https://anuragportfolio911.netlify.app)
 
 ⭐ **If you find this project cool, drop a star — it helps a lot!**
