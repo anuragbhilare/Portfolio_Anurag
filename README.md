@@ -9,12 +9,6 @@ Welcome to my personal portfolio website, where I showcase my work, technical sk
 🔗 **Check it out here:**  
 👉 https://anuragportfolio911.netlify.app
 
-## 🧠 About This Project
-
-This portfolio is more than a resume — it reflects how I think, design, and build applications. Each section is crafted to highlight my projects, creativity, and continuous learning as a developer.
-
-Whether you’re a recruiter, collaborator, or just curious — welcome!
-
 ## ⚙️ Tech Stack
 
 - ⚛️ **React** – Component-based UI
