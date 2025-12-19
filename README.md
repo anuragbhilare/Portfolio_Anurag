@@ -6,8 +6,8 @@ Welcome to my personal portfolio website, where I showcase my projects, skills, 
 
 ## 🌍 Live Demo
 
-🔗 **Check it out here:**
-https://anuragg19.github.io/Portfolio_Anurag/
+🔗 **Check it out here:**  
+👉 [Anurag Bhilare – Portfolio](https://anuragg19.github.io/Portfolio_Anurag/#/)
 
 ## 🧠 About This Project
 
@@ -31,6 +31,7 @@ Whether you’re a recruiter, collaborator, or just curious — welcome..!
 ✔ Easy to scale and customize
 
 ## 🧠 What I Learned
+
 - Component-based design in React
 - Responsive UI practices
 - Better folder organization
@@ -59,7 +60,7 @@ The app will run on http://localhost:3000
 
 If you like what you see or want to collaborate:
 
-* GitHub: [https://github.com/anuragg19]
-* Portfolio: [https://anuragg19.github.io/Portfolio_Anurag/]
+* GitHub: [Visit GitHub](https://github.com/anuragg19)
+* Portfolio: [Visit Portfolio](https://anuragg19.github.io/Portfolio_Anurag/#/)
 
 ⭐ **If you find this project cool, drop a star — it helps a lot!**
