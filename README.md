@@ -45,6 +45,7 @@ git clone https://github.com/anuragbhilare/Portfolio_Anurag.git
 cd Portfolio_Anurag
 npm install
 npm start
+```
 
 The app will run on http://localhost:3000
 
