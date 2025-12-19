@@ -7,7 +7,7 @@ Welcome to my personal portfolio website, where I showcase my work, technical sk
 ## 🌍 Live Demo
 
 🔗 **Check it out here:**  
-👉 https://celadon-nougat-b9cb14.netlify.app
+👉 anuragportfolio911.netlify.app
 
 ## 🧠 About This Project
 
@@ -60,7 +60,7 @@ The app will run on http://localhost:3000
 
 If you like what you see or want to collaborate:
 
-* GitHub: [Visit GitHub](https://github.com/anuragbhilare/Portfolio_Anurag)
-* Portfolio: [Visit Portfolio](anuragportfolio911.netlify.app)
+* GitHub:(https://github.com/anuragbhilare/Portfolio_Anurag)
+* Portfolio:(anuragportfolio911.netlify.app)
 
 ⭐ **If you find this project cool, drop a star — it helps a lot!**
