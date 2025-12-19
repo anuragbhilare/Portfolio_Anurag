@@ -2,7 +2,6 @@
     "name": "react-portfolio",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://anuragg19.github.io/Portfolio_Anurag",
 
     "dependencies": {
         "bootstrap": "^5.2.3",
